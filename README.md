@@ -62,8 +62,26 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [20 Curso de Elixir - Pattern matching con listas y segunda parte sobre la recursividad](https://www.youtube.com/watch?v=2ASliS39hLo&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=20)
 
+* [21 Curso de Elixir - En este capitulo seguimos con la recursividad y creamos nuestra función map](https://www.youtube.com/watch?v=J-Uo2_pr2_0&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=21)
 
+* [22 Curso de Elixir - Implementacion de nuestra función filter](https://www.youtube.com/watch?v=yVHzxZCJZqk&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=22)
 
+* [23 Curso de Elixir - reduce super explicado y con una implementacion propia](https://www.youtube.com/watch?v=rkVofWooPa4&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=23)
+
+* [24 Curso de Elixir - operador de captura, rangos y Keywordlist
+](https://www.youtube.com/watch?v=Py9nKXjLqtU&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=24)
+
+* [25 Curso de Elixir - atributos de modulo](https://www.youtube.com/watch?v=uoBlmlZfA10&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=25)
+
+* [26 Curso de Elixir - Introducción a las estructuras](https://www.youtube.com/watch?v=wwFKLkEkDRw&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=26)
+
+* [27 Curso de Elixir - Refactorizacion de la calculadora mediante structs y alias](https://www.youtube.com/watch?v=fNKiclTZq9w&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=27)
+
+* [28 Curso de Elixir - List Comprehension mediante for](https://www.youtube.com/watch?v=cM0IsSFVvv8&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=28)
+
+* [29 Curso de Elixir - macro for y todas sus opciones](https://www.youtube.com/watch?v=JorQ6UWuNH4&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=29)
+
+* [30 Curso de Elixir - Sigils](https://www.youtube.com/watch?v=ud0-ysQlmxk&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=30) 
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [ppertube](https://htp.live/video-channels/programando_con_elixir/videos)
