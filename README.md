@@ -1,4 +1,4 @@
-# curso-elixir
+# Curso de Elixir de 0 a 100.
 
 Este repositorio contiene el codigo de los ejemplos que fuimos haciendo a medida que avanzamos en el curso de elixir
 que estoy llevando adelante.
