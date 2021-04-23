@@ -135,17 +135,23 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 * [49 Curso de Elixir - GenServer, mensajes genéricos y tools OTP útiles para depuración de procesos.
 ](https://www.youtube.com/watch?v=qEdB9ZOQQLM&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=49)
 
-* []()
+* [50 Curso de Elixir - Registro de procesos con GenServers e inicialización sin cuellos de botella.
+](https://www.youtube.com/watch?v=BweTNc2mWUI&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=50)
 
-* []()
+* [51 Curso de Elixir - Registrando procesos con el modulo Register
+](https://www.youtube.com/watch?v=_33xb3BYscQ&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=51)
 
-* []()
+* [52 Curso de Elixir - Aplicaciones e introducción a los supervisores
+](https://www.youtube.com/watch?v=XypjYHx8-x8&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=52)
 
-* []()
+* [53 Curso de Elixir - Aplicaciones y Supervisores
+](https://www.youtube.com/watch?v=V7jq-F6XJYE&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=53)
 
-* []()
+* [54 Curso de Elixir - Entendiendo los supervisores
+](https://www.youtube.com/watch?v=O7HQJvHQWSM&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=54)
 
-* []()
+* [55 Curso de Elixir - Supervisores y la función child_spec
+](https://www.youtube.com/watch?v=VgTVpKLD9fU&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=55)
 
 
 
