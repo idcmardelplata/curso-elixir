@@ -1,4 +1,7 @@
+![Logo Elixir](https://hackr.io/tutorials/elixir/logo-elixir.svg?ver=1579691321)
+
 # Curso de Elixir de 0 a 100.
+
 
 Este repositorio contiene el codigo de los ejemplos que fuimos haciendo a medida que avanzamos en el curso de elixir
 que estoy llevando adelante.
