@@ -153,6 +153,30 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 * [55 Curso de Elixir - Supervisores y la función child_spec
 ](https://www.youtube.com/watch?v=VgTVpKLD9fU&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=55)
 
+* [56 Curso de Elixir - Arboles de supervision
+](https://www.youtube.com/watch?v=6gA0fcBKuyI&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=56)
+
+* [57 Curso de Elixir - Agentes
+](https://www.youtube.com/watch?v=koPUEwLdxkQ&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=57)
+
+* [58 Curso de Elixir - Creación de un sistema de geolocalizacion
+](https://www.youtube.com/watch?v=vb5pkWGXJK0&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=58)
+
+* [59 Curso de Elixir - Refactorizando la aplicación de geolocalizacion.
+](https://www.youtube.com/watch?v=quC6uzhWOWQ&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=59)
+
+* [60 Curso de Elixir - Modulo Task y paralelizacion de tareas
+](https://www.youtube.com/watch?v=qinBI3jApSc&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=60)
+
+* [61 Curso de Elixir - Gestión de errores con el modulo Task.Supervisor
+](https://www.youtube.com/watch?v=UMYkgvHXaBA&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=61)
+
+* [62 Curso de Elixir - Tareas personalizadas con el modulo Task
+](https://www.youtube.com/watch?v=VZfAIjBoz4A&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=62)
+
+* [63 Curso de Elixir - El patron Contexto y algunas refactorizaciones
+](https://www.youtube.com/watch?v=qQezwdkwbeU&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=63)
+
 
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
