@@ -83,6 +83,72 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [30 Curso de Elixir - Sigils](https://www.youtube.com/watch?v=ud0-ysQlmxk&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=30) 
 
+* [31 Curso de Elixir - El modulo File](https://www.youtube.com/watch?v=QGb_vH8MxLE&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=31)
+
+* [32 Curso de Elixir - Documentando los modulos con @moduledoc y @doc](https://www.youtube.com/watch?v=8-30rFQ6giY&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=32)
+
+* [33 Curso de Elixir - Streams](https://www.youtube.com/watch?v=-3d_sxEchpY&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=33)
+
+* [34 Curso de Elixir - alias a import](https://www.youtube.com/watch?v=fEW0dXsLBX4&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=34)
+
+* [35 Curso de Elixir - require y use super explicados](https://www.youtube.com/watch?v=Feluq7vjSAU&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=35)
+
+* [36 Curso de Elixir - Procesos concurrencia y Paralelismo
+](https://www.youtube.com/watch?v=o9njQzSRUqQ&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=36)
+
+* [37 Curso de Elixir - Obteniendo información sobre los procesos.
+](https://www.youtube.com/watch?v=Ylbxx38kF0M&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=37)
+
+* [38 Curso de Elixir - Comunicación entre distintos procesos
+](https://www.youtube.com/watch?v=HMoCEiDKqS4&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=38)
+
+* [39 Curso de Elixir - ¿Que pasa cuando muere un proceso?, Atrapando la señal de :EXIT.
+](https://www.youtube.com/watch?v=-0geVisJ9S0&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=39)
+
+* [40 Curso de Elixir - Filosofia "let it crash", monitoreando procesos.
+](https://www.youtube.com/watch?v=3Sky7dUqhJY&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=40)
+
+* [41 Curso de Elixir - Almacenando y compartiendo el estado entre procesos.
+](https://www.youtube.com/watch?v=wcO5a_fpCHk&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=41)
+
+* [42 Curso de Elixir - Introduccion a los Protocols
+](https://www.youtube.com/watch?v=5w0HTCrbbG4&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=42)
+
+* [43 Curso de Elixir - Protocols implementacion por defecto con Any
+](https://www.youtube.com/watch?v=YXMAEhPSDlM&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=43)
+
+* [44 Curso de Elixir - Implementaciones por defecto con @derive
+](https://www.youtube.com/watch?v=bBDPcFA407E&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=44)
+
+* [45 Curso de Elixir - Especificaciones de tipos de datos
+](https://www.youtube.com/watch?v=uiS8PVDvxrM&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=45)
+
+* [46 Curso de Elixir - Behaviours
+](https://www.youtube.com/watch?v=4YsjARCvY2M&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=46)
+
+* [47 Curso de Elixir - Introducción a GenServer
+](https://www.youtube.com/watch?v=12cVtv9zOME&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=47)
+
+* [48 Curso de Elixir - GenServers super explicados
+](https://www.youtube.com/watch?v=iJ-VsEweBqc&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=48)
+
+* [49 Curso de Elixir - GenServer, mensajes genéricos y tools OTP útiles para depuración de procesos.
+](https://www.youtube.com/watch?v=qEdB9ZOQQLM&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=49)
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+
+
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [ppertube](https://htp.live/video-channels/programando_con_elixir/videos)
 
