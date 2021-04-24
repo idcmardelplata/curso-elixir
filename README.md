@@ -180,6 +180,7 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 * [63 Curso de Elixir - El patron Contexto y algunas refactorizaciones
 ](https://www.youtube.com/watch?v=qQezwdkwbeU&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg&index=63)
 
+* [64 Curso de Elixir - DynamicSupervisor](https://www.youtube.com/watch?v=gpxHWfH9SLg)
 
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
