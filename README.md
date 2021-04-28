@@ -182,6 +182,10 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [64 Curso de Elixir - DynamicSupervisor](https://www.youtube.com/watch?v=gpxHWfH9SLg)
 
+* [65 Curso de Elixir - Comenzando a probar con ExUnit](https://www.youtube.com/watch?v=BgEK2XIIMqA&t=68s)
+
+* [66 de Elixir - Terminando nuestra primera prueba y ejecucion de pruebas especificas ](https://youtu.be/lYCyGEg0kP0)
+
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [ppertube](https://htp.live/video-channels/programando_con_elixir/videos)
