@@ -18,4 +18,6 @@ defmodule Geolocate do
         data
     end
   end
+
+  def hello, do: :world
 end

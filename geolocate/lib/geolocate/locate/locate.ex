@@ -24,4 +24,8 @@ defmodule Geolocate.Locate do
   def write_log(data, filename) do
     data |> FileWriter.start(filename)
   end
+
+  def valid_ip?(ip) do
+    true
+  end
 end
