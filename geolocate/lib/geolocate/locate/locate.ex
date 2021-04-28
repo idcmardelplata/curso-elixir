@@ -26,6 +26,15 @@ defmodule Geolocate.Locate do
   end
 
   def valid_ip?(ip) do
-    true
+    ip =
+      ip
+      |> String.split(".")
+      |> Enum.map(&String.to_integer/1)
+      |> Enum.filter(&in_range/1)
+
+    length(ip) == 4
   end
+
+  defp in_range(n) when n > 0 and n <= 255, do: true
+  defp in_range(_n), do: false
 end
