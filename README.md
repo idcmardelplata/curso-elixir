@@ -184,7 +184,9 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [65 Curso de Elixir - Comenzando a probar con ExUnit](https://www.youtube.com/watch?v=BgEK2XIIMqA&t=68s)
 
-* [66 de Elixir - Terminando nuestra primera prueba y ejecucion de pruebas especificas ](https://youtu.be/lYCyGEg0kP0)
+* [66 Curso de Elixir - Terminando nuestra primera prueba y ejecucion de pruebas especificas ](https://youtu.be/lYCyGEg0kP0)
+
+* [67 Curso de Elixir - ExUnit conociendo las macros setup ](https://youtu.be/4U1hvZqSBD8)
 
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
