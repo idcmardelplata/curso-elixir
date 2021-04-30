@@ -188,6 +188,8 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [67 Curso de Elixir - ExUnit conociendo las macros setup ](https://youtu.be/4U1hvZqSBD8)
 
+* [68 Curso de Elixir - ExUnit datos de inicio y probando excepciones](https://youtu.be/wyrcaYy_TaE)
+
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [ppertube](https://htp.live/video-channels/programando_con_elixir/videos)
