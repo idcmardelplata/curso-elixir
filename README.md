@@ -190,6 +190,8 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [68 Curso de Elixir - ExUnit datos de inicio y probando excepciones](https://youtu.be/wyrcaYy_TaE)
 
+* [69 Curso de Elixir - Pruebas de integracion y a funcion capture_io](https://youtu.be/UG9NCj9ygc8)
+
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [ppertube](https://htp.live/video-channels/programando_con_elixir/videos)
