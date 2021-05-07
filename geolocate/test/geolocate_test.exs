@@ -1,6 +1,7 @@
 defmodule GeolocateTest do
-  use ExUnit.Case
+  use ExUnit.Case, async: true
   doctest Geolocate
+  import ExUnit.CaptureIO
 
   setup_all do
     valid_ips = File.stream!("./ips.txt") |> Stream.map(&String.trim/1) |> Enum.take(10)
@@ -34,5 +35,23 @@ defmodule GeolocateTest do
     test "siempre falla" do
       assert false
     end
+  end
+
+  @tag :integration_test
+  test "almacena y carga el archivo de log correctamente", %{valid_address: ips} do
+    ips = Enum.take(ips, 2)
+    Geolocate.locate(ips, write_log_in: "mydata.json")
+    loaded_data = File.read!("mydata.json") |> Jason.decode!()
+    assert length(loaded_data) == 2
+  end
+
+  test "captura la entrada y la salida" do
+    assert capture_io(fn ->
+             IO.puts("Hola mundo")
+           end) == "Hola mundo\n"
+
+    assert capture_io(:stderr, fn ->
+             IO.puts(:stderr, "Adios mundo")
+           end) == "Adios mundo\n"
   end
 end
