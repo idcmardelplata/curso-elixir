@@ -2,6 +2,7 @@ defmodule GeolocateTest do
   use ExUnit.Case, async: true
   doctest Geolocate
   import ExUnit.CaptureIO
+  import Mox
 
   setup_all do
     valid_ips = File.stream!("./ips.txt") |> Stream.map(&String.trim/1) |> Enum.take(10)
@@ -30,10 +31,21 @@ defmodule GeolocateTest do
     test "lanza una excepcion si la ip es invalida", %{invalid_address: ips} do
       for ip <- ips, do: assert_raise(Locate.Error, fn -> Geolocate.Locate.valid_ip?(ip) end)
     end
+  end
 
-    @tag :integration_test
-    test "siempre falla" do
-      assert false
+  describe "Geolocate.Locate.locate/1" do
+    setup :verify_on_exit!
+
+    test "dada una direccion ip me debe retornar un diccionario" do
+      expect(PoisonClientMock, :get, fn _ip ->
+        %{
+          "city" => "Xichuan Xian"
+        }
+        |> Jason.encode!()
+      end)
+
+      %{"city" => city} = Geolocate.Locate.locate("123.11.119.48")
+      assert city == "Xichuan Xian"
     end
   end
 
