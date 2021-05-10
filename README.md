@@ -192,6 +192,10 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [69 Curso de Elixir - Pruebas de integracion y a funcion capture_io](https://youtu.be/UG9NCj9ygc8)
 
+* [70 Curso de Elixir - Implementando dobles de pruebas con Mox](https://www.youtube.com/watch?v=3eH1pazEkSI)
+
+* [71 Curso de Elixir - Cobertura de codigo con ExCoveralls](https://youtu.be/F-d0byDakiU)
+
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [ppertube](https://htp.live/video-channels/programando_con_elixir/videos)
