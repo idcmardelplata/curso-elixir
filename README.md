@@ -198,7 +198,7 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
-y tambien lo he subido a [ppertube](https://htp.live/video-channels/programando_con_elixir/videos)
+y tambien lo he subido a [peertube](https://htp.live/video-channels/programando_con_elixir/videos)
 
 Por ultimo, si te gusta este material y te es util, podes agradecermelo 
 
