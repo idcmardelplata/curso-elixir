@@ -6,6 +6,7 @@ defmodule Geolocate.MixProject do
       app: :geolocate,
       version: "0.1.0",
       elixir: "~> 1.12-dev",
+      elixirc_paths: elixirc_paths(Mix.env()),
       start_permanent: Mix.env() == :prod,
       test_coverage: [tool: ExCoveralls],
       preferred_cli_env: [
@@ -25,6 +26,9 @@ defmodule Geolocate.MixProject do
       mod: {Geolocate.Application, []}
     ]
   end
+
+  defp elixirc_paths(:test), do: ["lib", Path.wildcard("test/support/*.exs") |> Enum.at(0)]
+  defp elixirc_paths(_), do: ["lib"]
 
   # Run "mix help deps" to learn about dependencies.
   defp deps do
