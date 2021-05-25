@@ -198,6 +198,8 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [72 Curso de Elixir - Plantillas de prueba](https://www.youtube.com/watch?v=u0v3Wkza9_g)
 
+* [73 Curso de Elixir - Aplicaciones Umbrella](https://www.youtube.com/watch?v=HuWJsZHTRzs)
+
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [peertube](https://htp.live/video-channels/programando_con_elixir/videos)
