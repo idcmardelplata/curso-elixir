@@ -201,6 +201,8 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 * [73 Curso de Elixir - Aplicaciones Umbrella](https://www.youtube.com/watch?v=HuWJsZHTRzs)
 
 * [74 Curso de Elixir - Introduccion a Plug](https://www.youtube.com/watch?v=rjNgQt7rL9s)
+ 
+* [75 Curso de Elixir - Creando un backend basico con Plug](https://www.youtube.com/watch?v=7wdzsgl5DRU)
 
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
