@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geolocate</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+<body>
+
+<section class="w-full px-3 antialiased bg-purple-800 lg:px-6">
+    <div class="mx-auto max-w-7xl">
+
+        <div class="container py-32 mx-auto text-center sm:px-4">
+
+            <h1 class="text-4xl font-extrabold leading-10 tracking-tight text-white sm:text-5xl sm:leading-none md:text-6xl xl:text-7xl">
+                <span class="block">Geolocalizador</span>
+                <span class="relative inline-block mt-3 text-transparent text-white">de direcciones IP</span>
+            </h1>
+
+            <div class="max-w-lg mx-auto mt-6 text-sm text-center text-indigo-200 md:mt-12 sm:text-base md:max-w-xl md:text-lg xl:text-xl">
+                Simplemente digite la IP a localizar y al instante obtendra la informacion
+            </div>
+
+            <div x-data="{address: 'xxx.xxx.xxx.xxx'}" class="relative flex items-center max-w-md mx-auto mt-12 overflow-hidden text-center rounded-full">
+
+                <input x-model="address" required pattern="^([0-9]{1,3}\.){3}[0-9]{1,3}$" type="text" name="ip"  placeholder="xxx.xxx.xxx.xxx" x-text="address" class="w-full h-12 px-6 py-2 font-medium text-indigo-800 focus:outline-none">
+                <span class="relative top-0 right-0 block">
+                    <button @click="find_ip(address)" type="button" class="inline-flex items-center w-32 h-12 px-8 text-base font-bold leading-6 text-white transition duration-150 ease-in-out bg-purple-400 border border-transparent hover:bg-purple-700 focus:outline-none active:bg-purple-700">Locate</button>
+                </span>
+            </div>
+
+            <div class="mt-8 text-sm text-white">By signing up, you agree to our terms and services.</div>
+        </div>
+    </div>
+</section>
+
+<section class="w-full mb-10 px-3 py-3 antialiased bg-purple-600 lg:px-6 ">
+    <div id="map" class="w-full h-96 justify-items-center h-screen">
+    </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+<script defer>
+    let api_token="<%= api_token  || '' %>";
+    mapboxgl.accessToken = api_token;
+    var coords = [0,0];
+
+    let map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/streets-v11',
+      center: coords,
+      zoom: 100
+    });
+
+    function update_map(data) {
+        map.setCenter([data.longitude, data.latitude]);
+        map.setZoom(10);
+        map.triggerRepaint();
+    }
+
+    function find_ip(address) {
+    const url = `http://localhost:4001/ip/${address}`;
+        fetch(url, { method: 'GET' })
+        .then(resp => resp.json())
+        .then(update_map)
+        .catch(console.err)
+    }
+</script>
+
+</body>
+</html>
