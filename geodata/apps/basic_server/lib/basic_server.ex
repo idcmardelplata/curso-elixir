@@ -1,6 +1,6 @@
 defmodule BasicServer do
  use Plug.Router
-  @template_dir "apps/basic_server/lib/templates"
+  @template_dir Path.expand("lib/templates")
 
   plug :match
   plug :dispatch
