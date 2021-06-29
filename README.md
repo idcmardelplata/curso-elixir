@@ -204,6 +204,8 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
  
 * [75 Curso de Elixir - Creando un backend basico con Plug](https://www.youtube.com/watch?v=7wdzsgl5DRU)
 
+* [76 Curso de Elixir - Probando nuestros plugs](https://youtu.be/CGM0okh5o50)
+
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [peertube](https://htp.live/video-channels/programando_con_elixir/videos)
