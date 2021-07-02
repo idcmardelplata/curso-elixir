@@ -206,6 +206,9 @@ Si bien no estan subidos todos los ejemplos, si estan los mas importantes y los 
 
 * [76 Curso de Elixir - Probando nuestros plugs](https://youtu.be/CGM0okh5o50)
 
+* [77 Curso de Elixir - Testing concurrente y Mox](https://www.youtube.com/watch?v=wBQBSQpdOK0)
+
+* [78 Curso de Elixir - Introduccion a las macros y la metaprogramacion](https://www.youtube.com/watch?v=kSUWtpKOeGU)
 
 Este curso lo podes seguir gratuitamente en [youtube](https://www.youtube.com/playlist?list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg)
 y tambien lo he subido a [peertube](https://htp.live/video-channels/programando_con_elixir/videos)
