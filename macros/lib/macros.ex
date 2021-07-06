@@ -3,6 +3,7 @@ defmodule CompileTime do
     IO.puts "Otro mensaje"
   end
 end
+
 defmodule Macros do
   require CompileTime
   CompileTime.compile()
